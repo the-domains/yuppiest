@@ -1,0 +1,14 @@
+layout_spectrum: 0.8891355863306671
+typography_spectrum: 0.07048546243458986
+color:
+  brandStrength: 0.005274548660963774
+  lightness: 0.9344133045524359
+  saturation: 0.2779001446906477
+  rhythmicContrast: 0.6690623604226857
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: yuppiest
